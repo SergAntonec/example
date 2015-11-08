@@ -7,7 +7,7 @@
       $cfg->set_model_directory('models');
       $cfg->set_connections(array('development' => 'mysql://root:@localhost/ar')); 
    
-	//data//2 committt
+	// dsavsavsavsavafs
         }); 
            echo '<pre>';
 //        User::create(array(
