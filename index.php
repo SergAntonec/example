@@ -6,10 +6,8 @@
          {
       $cfg->set_model_directory('models');
       $cfg->set_connections(array('development' => 'mysql://root:@localhost/ar')); 
-    
-	////
-	first commit
-	/////
+   
+	//data//2 committt
         }); 
            echo '<pre>';
 //        User::create(array(
